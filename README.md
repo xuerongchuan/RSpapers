@@ -6,6 +6,6 @@
 ---
 
 * **Tag-aware RS：** 基于标签的推荐系统，使用标签来提高推荐准确率等
-* **Cross-domain RS：** 跨领域的推荐系统
-* **Surveys：** 相关综述
+* **Attention Based RS：** 采用Attention机制的论文
+
 
