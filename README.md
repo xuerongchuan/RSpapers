@@ -9,3 +9,11 @@
 * **Attention Based RS：** 采用Attention机制的论文
 
 
+## Tag-aware RS
+* 1-liang2018-TRSDL Tag-Aware Recommender System
+## Attention Based RS
+### item similarity 
+* 1-NAIS Neural Attentive Item Similarity Model for Recommendation [code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
+
+### cross domain
+*  1-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
