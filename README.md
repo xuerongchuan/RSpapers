@@ -24,7 +24,11 @@
 #### **Attention-based Transactional Context Embedding for Next-Item Recommendation**
 [论文导读](https://blog.csdn.net/Zhongsigen/article/details/81704545)
 这篇导读对模型的介绍几乎没有，需要补全
+
+### self-attention 
+[介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNT
-Q3ODkyMzUsMTQ2ODI2OTc5MF19
+eyJoaXN0b3J5IjpbMTc2NjkyMjIxNywtMTY5OTExMjY4Miw0Nz
+QyNjk4NjIsLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX0=
 -->
