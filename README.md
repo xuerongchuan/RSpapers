@@ -28,12 +28,14 @@
 
 
 这篇导读对模型的介绍几乎没有，需要补全
+$$Attention(Q,K,V)=Attention()$$
 
 ### self-attention 
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5ND
-c1NTI4ODksMTc2NjkyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4
-NjIsLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX0=
+eyJoaXN0b3J5IjpbMTYzNTIxNjgxNiwtMTkwMDc5NjYxMSwxMT
+IwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNjk5MTEy
+NjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0NjgyNjk3OTBdfQ
+==
 -->
