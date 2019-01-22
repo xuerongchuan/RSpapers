@@ -13,7 +13,7 @@
 * 1-liang2018-TRSDL Tag-Aware Recommender System
 ## Attention Based RS
 ### item similarity 
-* 1-NAIS Neural Attentive Item Similarity Model for Recommendation [code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
+* 1-  [code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
 
 ### cross domain
 *  1-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
@@ -33,7 +33,7 @@
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2Nj
-kyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIz
-NSwxNDY4MjY5NzkwXX0=
+eyJoaXN0b3J5IjpbLTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5ND
+c1NTI4ODksMTc2NjkyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4
+NjIsLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX0=
 -->
