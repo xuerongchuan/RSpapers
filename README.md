@@ -25,7 +25,7 @@
 [paper](http://203.170.84.89/~idawis33/DataScienceLab/publication/AAAI18-Wang.pdf)
 [论文导读](https://blog.csdn.net/Zhongsigen/article/details/81704545)
 >作者提出一个推荐算法，这个算法不仅考虑当前交易中所有的observed items，而且还要用不同的relevance(相关性)对它们进行加权，以建立一个attentive context(注意力上下文)，以高概率输出正确的下一个项目。模型——基于注意的事务嵌入模型（ATEM），用于上下文嵌入，以在不假定顺序的情况下对每个观察到的项目进行加权。
---------------------- 
+
 
 这篇导读对模型的介绍几乎没有，需要补全
 
@@ -33,7 +33,7 @@
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5MTA5OTM1LDk0NzU1Mjg4OSwxNzY2OT
-IyMjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1
-LDE0NjgyNjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2Nj
+kyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIz
+NSwxNDY4MjY5NzkwXX0=
 -->
