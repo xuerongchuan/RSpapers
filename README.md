@@ -19,7 +19,7 @@
 *  1-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
 #### Neural Collaborative Filtering
 [论文导读](https://www.paperweekly.site/papers/notes/390)
-[pytorchsh
+[pytorch实现](https://towardsdatascience.com/paper-review-neural-collaborative-filtering-explanation-implementation-ea3e031b7f96)
 这篇论文导读给我一种“这才是论文导读的感觉啊”，一篇论文的正确读法：
 * 动机
 * 模型
@@ -44,8 +44,8 @@ $$Attention(Q,K,V)=Attention(Q, Q, Q)$$
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzcwNjI2NywxNzY4OTQxNTk2LDE2Mj
-M4OTMyNDAsLTE5MzYzNjYyOTUsLTE5MDA3OTY2MTEsMTEyMDQw
-ODU0MCw5NDc1NTI4ODksMTc2NjkyMjIxNywtMTY5OTExMjY4Mi
-w0NzQyNjk4NjIsLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX0=
+eyJoaXN0b3J5IjpbNDY3NDM1MzEsMTc2ODk0MTU5NiwxNjIzOD
+kzMjQwLC0xOTM2MzY2Mjk1LC0xOTAwNzk2NjExLDExMjA0MDg1
+NDAsOTQ3NTUyODg5LDE3NjY5MjIyMTcsLTE2OTkxMTI2ODIsND
+c0MjY5ODYyLC0zNTQ3ODkyMzUsMTQ2ODI2OTc5MF19
 -->
