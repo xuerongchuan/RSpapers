@@ -17,7 +17,13 @@
 
 ### cross domain
 *  1-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
-
+#### Neural Collaborative Filtering
+[论文导读](https://www.paperweekly.site/papers/notes/390)
+这篇论文导读给我一种“这才是论文导读的感觉啊”，一篇论文的正确读法：
+* 动机
+* 模型
+* 实验
+* 评价（）
 #### Next Item Recommendation with Self-Attention
 [论文导读](https://zhuanlan.zhihu.com/p/48069398)
 > **本文提出了一种基于 self-attention 的基于序列的推荐算法**，利用**self-attention**来为用户短期行为模式的依赖关系和重要性建模。同时该模型也保留了用户的长久兴趣。整个网络在 **metric learning** 的框架下，是**第一次将 self-attention 和 metric learning的结合的尝试。**
@@ -34,8 +40,8 @@ $$Attention(Q,K,V)=Attention(Q, Q, Q)$$
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYzNjYyOTUsLTE5MDA3OTY2MTEsMT
-EyMDQwODU0MCw5NDc1NTI4ODksMTc2NjkyMjIxNywtMTY5OTEx
-MjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX
-0=
+eyJoaXN0b3J5IjpbNDE3NjY3NDMzLC0xOTM2MzY2Mjk1LC0xOT
+AwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIy
+MTcsLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMT
+Q2ODI2OTc5MF19
 -->
