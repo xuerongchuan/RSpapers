@@ -21,7 +21,8 @@
 #### Next Item Recommendation with Self-Attention
 [论文导读](https://zhuanlan.zhihu.com/p/48069398)
 > **本文提出了一种基于 self-attention 的基于序列的推荐算法**，利用**self-attention**来为用户短期行为模式的依赖关系和重要性建模。同时该模型也保留了用户的长久兴趣。整个网络在 **metric learning** 的框架下，是**第一次将 self-attention 和 metric learning的结合的尝试。**
->
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODQ1Nzk2MSwxNDY4MjY5NzkwXX0=
+eyJoaXN0b3J5IjpbLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX0=
 -->
