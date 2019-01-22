@@ -26,7 +26,7 @@
 * 评价（读者的）
 
 而不是翻译一篇论文，看别人的翻译不如自己看原文
->
+>取代MF的一个基础模型
 #### Next Item Recommendation with Self-Attention
 [论文导读](https://zhuanlan.zhihu.com/p/48069398)
 > **本文提出了一种基于 self-attention 的基于序列的推荐算法**，利用**self-attention**来为用户短期行为模式的依赖关系和重要性建模。同时该模型也保留了用户的长久兴趣。整个网络在 **metric learning** 的框架下，是**第一次将 self-attention 和 metric learning的结合的尝试。**
@@ -43,8 +43,8 @@ $$Attention(Q,K,V)=Attention(Q, Q, Q)$$
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMT
-kwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIy
-MjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LD
-E0NjgyNjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOT
+M2MzY2Mjk1LC0xOTAwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUy
+ODg5LDE3NjY5MjIyMTcsLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC
+0zNTQ3ODkyMzUsMTQ2ODI2OTc5MF19
 -->
