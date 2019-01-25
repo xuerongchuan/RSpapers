@@ -13,7 +13,8 @@
 * 1-liang2018-TRSDL Tag-Aware Recommender System
 ## Attention Based RS
 ### item similarity 
-* 1-  [code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
+* 1-  NAIS: Neural Attentive Item Similarity Model for Recommendation.
+[code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
 
 ### cross domain
 *  1-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
@@ -49,9 +50,9 @@ Multimedia recommendation with item-and component-level attention
 利用多媒体内容特征学习component-level attention网络， 然后再利用该网络的结果学习item-level attention网络，其实就是嵌套了两层网络。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUzMDI1MjMsNDY3NDM1MzEsMTc2OD
-k0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOTAwNzk2
-NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIyMTcsLT
-E2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMTQ2ODI2
-OTc5MF19
+eyJoaXN0b3J5IjpbNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5ND
+E1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYx
+MSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNj
+k5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0NjgyNjk3
+OTBdfQ==
 -->
