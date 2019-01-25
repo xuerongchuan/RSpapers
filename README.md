@@ -13,13 +13,12 @@
 ## Tag-aware RS
 * 1-liang2018-TRSDL Tag-Aware Recommender System
 ## Attention Based RS
-### item similarity 
-* 1-  NAIS: Neural Attentive Item Similarity Model for Recommendation.
+#### 1-  NAIS: Neural Attentive Item Similarity Model for Recommendation.
 [code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
-
-### cross domain
-*  1-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
-#### Neural Collaborative Filtering
+item similarity 
+#### 2-MTNet:Neural Approach for Cross-Domain Recommendation with Unstructured Text
+cross domain
+#### 3-Neural Collaborative Filtering
 [论文导读](https://www.paperweekly.site/papers/notes/390)
 [pytorch实现](https://towardsdatascience.com/paper-review-neural-collaborative-filtering-explanation-implementation-ea3e031b7f96)
 这篇论文导读给我一种“这才是论文导读的感觉啊”，一篇论文的正确读法：
@@ -52,12 +51,13 @@ Multimedia recommendation with item-and component-level attention
 
 ## 实时推荐系统
 #### StreamRec: a real-time recommender system ACM2011
-#### ### [Streaming recommender systems](https://dl.acm.org/citation.cfm?id=3052627)
+#### Streaming recommender systems
+[paper](https://dl.acm.org/citation.cfm?id=3052627)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MDI3MTMzLDQzNjEzOTUwMCw0Njc0Mz
-UzMSwxNzY4OTQxNTk2LDE2MjM4OTMyNDAsLTE5MzYzNjYyOTUs
-LTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2Nj
-kyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIz
-NSwxNDY4MjY5NzkwXX0=
+eyJoaXN0b3J5IjpbLTE3MjM5NjM3MjMsNDM2MTM5NTAwLDQ2Nz
+QzNTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5
+NSwtMTkwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNz
+Y2OTIyMjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5
+MjM1LDE0NjgyNjk3OTBdfQ==
 -->
