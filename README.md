@@ -43,9 +43,13 @@ $$Attention(Q,K,V)=Attention(Q, Q, Q)$$
 ### self-attention 
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
+#### Attentive collaborative filtering
+Multimedia recommendation with item-and component-level attention
+[论文导读](https://zhuanlan.zhihu.com/p/32787606)
+一个考虑了
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDUyMTI1NSw0Njc0MzUzMSwxNzY4OT
+eyJoaXN0b3J5IjpbLTM3MDk3MjM3Miw0Njc0MzUzMSwxNzY4OT
 QxNTk2LDE2MjM4OTMyNDAsLTE5MzYzNjYyOTUsLTE5MDA3OTY2
 MTEsMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2NjkyMjIxNywtMT
 Y5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIzNSwxNDY4MjY5
