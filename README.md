@@ -50,10 +50,14 @@ Multimedia recommendation with item-and component-level attention
 [论文导读](https://zhuanlan.zhihu.com/p/32787606)
 利用多媒体内容特征学习component-level attention网络， 然后再利用该网络的结果学习item-level attention网络，其实就是嵌套了两层网络。
 
+## 实时推荐系统
+#### StreamRec: a real-time recommender system ACM2011
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTQ3ODk2MCw0MzYxMzk1MDAsNDY3ND
-M1MzEsMTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1
-LC0xOTAwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3Nj
-Y5MjIyMTcsLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODky
-MzUsMTQ2ODI2OTc5MF19
+eyJoaXN0b3J5IjpbNzc3NTgwNTY0LDQzNjEzOTUwMCw0Njc0Mz
+UzMSwxNzY4OTQxNTk2LDE2MjM4OTMyNDAsLTE5MzYzNjYyOTUs
+LTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2Nj
+kyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIz
+NSwxNDY4MjY5NzkwXX0=
 -->
