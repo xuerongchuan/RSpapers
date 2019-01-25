@@ -52,10 +52,10 @@ Multimedia recommendation with item-and component-level attention
 
 ## 实时推荐系统
 #### StreamRec: a real-time recommender system ACM2011
-
+#### ### [Streaming recommender systems](https://dl.acm.org/citation.cfm?id=3052627)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTgwNTY0LDQzNjEzOTUwMCw0Njc0Mz
+eyJoaXN0b3J5IjpbNzQ4MDI3MTMzLDQzNjEzOTUwMCw0Njc0Mz
 UzMSwxNzY4OTQxNTk2LDE2MjM4OTMyNDAsLTE5MzYzNjYyOTUs
 LTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2Nj
 kyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIz
