@@ -11,7 +11,7 @@
 
 
 ## Tag-aware RS
-* 1-liang2018-TRSDL Tag-Aware Recommender System
+###1-liang2018-TRSDL Tag-Aware Recommender System
 ## Attention Based RS
 #### 1-  NAIS: Neural Attentive Item Similarity Model for Recommendation.
 [code](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
@@ -58,9 +58,10 @@ tutorial 不是论文
 [地址](https://www.slideshare.net/fraho/recsys15-tutorial-on-realtime-recommendation-of-streamed-data)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTc0OTk0MCwxNzQ5NTIzODM2LDQzNj
-EzOTUwMCw0Njc0MzUzMSwxNzY4OTQxNTk2LDE2MjM4OTMyNDAs
-LTE5MzYzNjYyOTUsLTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5ND
-c1NTI4ODksMTc2NjkyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4
-NjIsLTM1NDc4OTIzNSwxNDY4MjY5NzkwXX0=
+eyJoaXN0b3J5IjpbMjEyNzQ1ODU5NSwxNTE1NzQ5OTQwLDE3ND
+k1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1OTYs
+MTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYxMSwxMT
+IwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNjk5MTEy
+NjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0NjgyNjk3OTBdfQ
+==
 -->
