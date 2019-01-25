@@ -46,12 +46,12 @@ $$Attention(Q,K,V)=Attention(Q, Q, Q)$$
 #### Attentive collaborative filtering
 Multimedia recommendation with item-and component-level attention
 [论文导读](https://zhuanlan.zhihu.com/p/32787606)
-一个考虑了
+利用多媒体内容特征学习component-level attention网络， 然后再利用该网络
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDk3MjM3Miw0Njc0MzUzMSwxNzY4OT
-QxNTk2LDE2MjM4OTMyNDAsLTE5MzYzNjYyOTUsLTE5MDA3OTY2
-MTEsMTEyMDQwODU0MCw5NDc1NTI4ODksMTc2NjkyMjIxNywtMT
-Y5OTExMjY4Miw0NzQyNjk4NjIsLTM1NDc4OTIzNSwxNDY4MjY5
-NzkwXX0=
+eyJoaXN0b3J5IjpbLTIwNzQ3MDE2NjksNDY3NDM1MzEsMTc2OD
+k0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOTAwNzk2
+NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIyMTcsLT
+E2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMTQ2ODI2
+OTc5MF19
 -->
