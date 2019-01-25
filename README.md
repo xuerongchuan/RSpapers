@@ -53,10 +53,12 @@ Multimedia recommendation with item-and component-level attention
 #### 1-StreamRec: a real-time recommender system ACM2011
 #### 2-Streaming recommender systems
 [paper](https://dl.acm.org/citation.cfm?id=3052627)
-#### 3-
+#### 3- RecSys'15 Tutorial on "Real-Time Recommendation of Streamed Data"
+tutorial 不是论文
+[地址](https://www.slideshare.net/fraho/recsys15-tutorial-on-realtime-recommendation-of-streamed-data)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDE1ODQ1MiwxNzQ5NTIzODM2LDQzNj
+eyJoaXN0b3J5IjpbMTUxNTc0OTk0MCwxNzQ5NTIzODM2LDQzNj
 EzOTUwMCw0Njc0MzUzMSwxNzY4OTQxNTk2LDE2MjM4OTMyNDAs
 LTE5MzYzNjYyOTUsLTE5MDA3OTY2MTEsMTEyMDQwODU0MCw5ND
 c1NTI4ODksMTc2NjkyMjIxNywtMTY5OTExMjY4Miw0NzQyNjk4
