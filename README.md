@@ -7,6 +7,7 @@
 
 * **Tag-aware RS：** 基于标签的推荐系统，使用标签来提高推荐准确率等
 * **Attention Based RS：** 采用Attention机制的论文
+* **realtime RecSystem：**  实时推荐系统
 
 
 ## Tag-aware RS
@@ -50,9 +51,9 @@ Multimedia recommendation with item-and component-level attention
 利用多媒体内容特征学习component-level attention网络， 然后再利用该网络的结果学习item-level attention网络，其实就是嵌套了两层网络。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5ND
-E1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYx
-MSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNj
-k5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0NjgyNjk3
-OTBdfQ==
+eyJoaXN0b3J5IjpbMjExMTQ3ODk2MCw0MzYxMzk1MDAsNDY3ND
+M1MzEsMTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1
+LC0xOTAwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3Nj
+Y5MjIyMTcsLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODky
+MzUsMTQ2ODI2OTc5MF19
 -->
