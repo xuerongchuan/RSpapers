@@ -61,11 +61,13 @@ Multimedia recommendation with item-and component-level attention
 tutorial 不是论文
 [地址](https://www.slideshare.net/fraho/recsys15-tutorial-on-realtime-recommendation-of-streamed-data)
 
+## 交叉推荐
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLDE3ND
-k1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1OTYs
-MTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYxMSwxMT
-IwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNjk5MTEy
-NjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0NjgyNjk3OTBdfQ
-==
+eyJoaXN0b3J5IjpbLTc3MjY5MTQyNiwxMzQwMTM1NTI5LDE1MT
+U3NDk5NDAsMTc0OTUyMzgzNiw0MzYxMzk1MDAsNDY3NDM1MzEs
+MTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOT
+AwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIy
+MTcsLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMT
+Q2ODI2OTc5MF19
 -->
