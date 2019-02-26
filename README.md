@@ -62,12 +62,12 @@ tutorial 不是论文
 [地址](https://www.slideshare.net/fraho/recsys15-tutorial-on-realtime-recommendation-of-streamed-data)
 
 ## 交叉推荐
-
+#### 1-Man, Tong et al. Cross-domain recommendation: an embedding and mapping approach. IJCAI, 2017.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjY5MTQyNiwxMzQwMTM1NTI5LDE1MT
-U3NDk5NDAsMTc0OTUyMzgzNiw0MzYxMzk1MDAsNDY3NDM1MzEs
-MTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOT
-AwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIy
-MTcsLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMT
-Q2ODI2OTc5MF19
+eyJoaXN0b3J5IjpbLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNT
+E1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMx
+LDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMT
+kwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIy
+MjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LD
+E0NjgyNjk3OTBdfQ==
 -->
