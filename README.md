@@ -64,11 +64,15 @@ tutorial 不是论文
 ## 交叉推荐
 #### 1-Man, Tong et al. Cross-domain recommendation: an embedding and mapping approach. IJCAI, 2017.
 [导读](https://zhuanlan.zhihu.com/p/30621349)
+
+## 时序漂移
+#### 1-Collaborative filtering with temporal dynamics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMT
-M0MDEzNTUyOSwxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5
-NTAwLDQ2NzQzNTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMT
-kzNjM2NjI5NSwtMTkwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1
-Mjg4OSwxNzY2OTIyMjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2Mi
-wtMzU0Nzg5MjM1LDE0NjgyNjk3OTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjMwOTUzMDcsLTEzMTY5Njg5NTAsLT
+E4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLDE3NDk1
+MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1OTYsMT
+YyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYxMSwxMTIw
+NDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNjk5MTEyNj
+gyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0NjgyNjk3OTBdfQ==
+
 -->
