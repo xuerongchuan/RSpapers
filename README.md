@@ -54,9 +54,13 @@ Multimedia recommendation with item-and component-level attention
 利用多媒体内容特征学习component-level attention网络， 然后再利用该网络的结果学习item-level attention网络，其实就是嵌套了两层网络。
 
 #### 8- A^3NCF: An Adaptive Aspect Attention Model for Rating Prediction
-papper weekly 推荐的一篇论文
+paper weekly 推荐的一篇论文
 https://www.paperweekly.site/papers/2560
 >本文是新加坡国立大学发表于IJCAI 2018的工作，论文**基于评论文本**对用户偏好和商品特征进行抽取，提出了一种自适应注意力模型用于用户评论的智能排序，不断学习用户对商品在不同关注点方面的权重，进而提升推荐效果。本文解决了已有方法忽视不同用户对商品不同侧面关注点不同的缺陷，并且在Amazon Product Review和Yelp 2017这两个大规模推荐系统数据库上取得了领域内最好效果。
+#### 9-Attention-based Group Recommendation
+paper weekly 推荐的一篇论文
+https://www.paperweekly.site/papers/2561
+>本文来自南洋理工大学。作为个体的用户和群组成员的行为是不同的，作者基于用户评级历史的深度学习技术，提出了一个注意力群体推荐模型来解决群体推荐问题，模型自动学习群组中的每个用户的影响权重并根据其成员的权重偏好为群组推荐项目。虽然基于图和概率的模型已经得到了广泛的研究，但本文是第一个将Attention机制应用到群体推荐中的。
 
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
@@ -73,11 +77,11 @@ tutorial 不是论文
 ## 时序漂移
 #### 1-Collaborative filtering with temporal dynamics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDkxMzcyNiwtMTg2MzA5NTMwNywtMT
-MxNjk2ODk1MCwtMTgzMzA3ODY2MSwxMzQwMTM1NTI5LDE1MTU3
-NDk5NDAsMTc0OTUyMzgzNiw0MzYxMzk1MDAsNDY3NDM1MzEsMT
-c2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOTAw
-Nzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIyMT
-csLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMTQ2
-ODI2OTc5MF19
+eyJoaXN0b3J5IjpbOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4Nj
+MwOTUzMDcsLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEz
+NTUyOSwxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLD
+Q2NzQzNTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2
+NjI5NSwtMTkwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OS
+wxNzY2OTIyMjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0
+Nzg5MjM1XX0=
 -->
