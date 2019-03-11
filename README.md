@@ -56,7 +56,7 @@ Multimedia recommendation with item-and component-level attention
 #### 8- A^3NCF: An Adaptive Aspect Attention Model for Rating Prediction
 papper weekly 推荐的一篇论文
 https://www.paperweekly.site/papers/2560
->本文是新加坡国立大学发表于IJCAI 2018的工作，论文基于评论文本对用户偏好和商品特征进行抽取，提出了一种自适应注意力模型用于用户评论的智能排序，不断学习用户对商品在不同关注点方面的权重，进而提升推荐效果。本文解决了已有方法忽视不同用户对商品不同侧面关注点不同的缺陷，并且在Amazon Product Review和Yelp 2017这两个大规模推荐系统数据库上取得了领域内最好效果。
+>本文是新加坡国立大学发表于IJCAI 2018的工作，论文**基于评论文本**对用户偏好和商品特征进行抽取，提出了一种自适应注意力模型用于用户评论的智能排序，不断学习用户对商品在不同关注点方面的权重，进而提升推荐效果。本文解决了已有方法忽视不同用户对商品不同侧面关注点不同的缺陷，并且在Amazon Product Review和Yelp 2017这两个大规模推荐系统数据库上取得了领域内最好效果。
 
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
@@ -73,11 +73,11 @@ tutorial 不是论文
 ## 时序漂移
 #### 1-Collaborative filtering with temporal dynamics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUyNjQxMjYsLTE4NjMwOTUzMDcsLT
-EzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1
-NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLD
-E3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkw
-MDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMj
-E3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0Nzg5MjM1LDE0
-NjgyNjk3OTBdfQ==
+eyJoaXN0b3J5IjpbLTY1NDkxMzcyNiwtMTg2MzA5NTMwNywtMT
+MxNjk2ODk1MCwtMTgzMzA3ODY2MSwxMzQwMTM1NTI5LDE1MTU3
+NDk5NDAsMTc0OTUyMzgzNiw0MzYxMzk1MDAsNDY3NDM1MzEsMT
+c2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOTAw
+Nzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIyMT
+csLTE2OTkxMTI2ODIsNDc0MjY5ODYyLC0zNTQ3ODkyMzUsMTQ2
+ODI2OTc5MF19
 -->
