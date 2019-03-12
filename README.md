@@ -57,6 +57,8 @@ Multimedia recommendation with item-and component-level attention
 paper weekly 推荐的一篇论文
 https://www.paperweekly.site/papers/2560
 >本文是新加坡国立大学发表于IJCAI 2018的工作，论文**基于评论文本**对用户偏好和商品特征进行抽取，提出了一种自适应注意力模型用于用户评论的智能排序，不断学习用户对商品在不同关注点方面的权重，进而提升推荐效果。本文解决了已有方法忽视不同用户对商品不同侧面关注点不同的缺陷，并且在Amazon Product Review和Yelp 2017这两个大规模推荐系统数据库上取得了领域内最好效果。
+
+[自己写的论文导读](https://www.jianshu.com/p/46d36caa9688)
 #### 9-Attention-based Group Recommendation
 paper weekly 推荐的一篇论文
 https://www.paperweekly.site/papers/2561
@@ -77,11 +79,11 @@ tutorial 不是论文
 ## 时序漂移
 #### 1-Collaborative filtering with temporal dynamics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4Nj
-MwOTUzMDcsLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEz
-NTUyOSwxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLD
-Q2NzQzNTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2
-NjI5NSwtMTkwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OS
-wxNzY2OTIyMjE3LC0xNjk5MTEyNjgyLDQ3NDI2OTg2MiwtMzU0
-Nzg5MjM1XX0=
+eyJoaXN0b3J5IjpbLTQ3MzYxMjc3NCw5ODkxNTYzNDcsLTY1ND
+kxMzcyNiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgzMzA3
+ODY2MSwxMzQwMTM1NTI5LDE1MTU3NDk5NDAsMTc0OTUyMzgzNi
+w0MzYxMzk1MDAsNDY3NDM1MzEsMTc2ODk0MTU5NiwxNjIzODkz
+MjQwLC0xOTM2MzY2Mjk1LC0xOTAwNzk2NjExLDExMjA0MDg1ND
+AsOTQ3NTUyODg5LDE3NjY5MjIyMTcsLTE2OTkxMTI2ODIsNDc0
+MjY5ODYyXX0=
 -->
