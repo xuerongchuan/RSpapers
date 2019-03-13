@@ -59,7 +59,7 @@ https://www.paperweekly.site/papers/2560
 [代码](https://github.com/hustlingchen/A3NCF)
 >本文是新加坡国立大学发表于IJCAI 2018的工作，论文**基于评论文本**对用户偏好和商品特征进行抽取，提出了一种自适应注意力模型用于用户评论的智能排序，不断学习用户对商品在不同关注点方面的权重，进而提升推荐效果。本文解决了已有方法忽视不同用户对商品不同侧面关注点不同的缺陷，并且在Amazon Product Review和Yelp 2017这两个大规模推荐系统数据库上取得了领域内最好效果。
 
-[自己写的论文导读](https://www.jianshu.com/p/46d36caa9688)
+[](https://www.jianshu.com/p/46d36caa9688)
 #### 9-Attention-based Group Recommendation
 paper weekly 推荐的一篇论文
 https://www.paperweekly.site/papers/2561
@@ -80,11 +80,11 @@ tutorial 不是论文
 ## 时序漂移
 #### 1-Collaborative filtering with temporal dynamics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjYxMjg1Myw5ODkxNTYzNDcsLTY1ND
-kxMzcyNiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgzMzA3
-ODY2MSwxMzQwMTM1NTI5LDE1MTU3NDk5NDAsMTc0OTUyMzgzNi
-w0MzYxMzk1MDAsNDY3NDM1MzEsMTc2ODk0MTU5NiwxNjIzODkz
-MjQwLC0xOTM2MzY2Mjk1LC0xOTAwNzk2NjExLDExMjA0MDg1ND
-AsOTQ3NTUyODg5LDE3NjY5MjIyMTcsLTE2OTkxMTI2ODIsNDc0
-MjY5ODYyXX0=
+eyJoaXN0b3J5IjpbODM0OTAwOTA5LDk4OTE1NjM0NywtNjU0OT
+EzNzI2LC0xODYzMDk1MzA3LC0xMzE2OTY4OTUwLC0xODMzMDc4
+NjYxLDEzNDAxMzU1MjksMTUxNTc0OTk0MCwxNzQ5NTIzODM2LD
+QzNjEzOTUwMCw0Njc0MzUzMSwxNzY4OTQxNTk2LDE2MjM4OTMy
+NDAsLTE5MzYzNjYyOTUsLTE5MDA3OTY2MTEsMTEyMDQwODU0MC
+w5NDc1NTI4ODksMTc2NjkyMjIxNywtMTY5OTExMjY4Miw0NzQy
+Njk4NjJdfQ==
 -->
