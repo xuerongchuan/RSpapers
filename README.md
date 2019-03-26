@@ -80,13 +80,15 @@ tutorial 不是论文
 ## 时序漂移
 #### 1-Collaborative filtering with temporal dynamics
 #### 2- taste over time: the temporal dynamics of user preferences
-[paper]()
+[paper](http://www.cs.cornell.edu/~jlmo/ismir13.pdf)
+
+提出了一个动态嵌入概率模型，将用户和歌曲都嵌入一个d维欧几里得ko
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTY2MTQwNCw4MzQ5MDA5MDksOTg5MT
-U2MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5Njg5
-NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLD
-E3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1
-OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYxMS
-wxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2OTIyMjE3LC0xNjk5
-MTEyNjgyXX0=
+eyJoaXN0b3J5IjpbNzAyMzM0MzU4LDgzNDkwMDkwOSw5ODkxNT
+YzNDcsLTY1NDkxMzcyNiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1
+MCwtMTgzMzA3ODY2MSwxMzQwMTM1NTI5LDE1MTU3NDk5NDAsMT
+c0OTUyMzgzNiw0MzYxMzk1MDAsNDY3NDM1MzEsMTc2ODk0MTU5
+NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC0xOTAwNzk2NjExLD
+ExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5MjIyMTcsLTE2OTkx
+MTI2ODJdfQ==
 -->
