@@ -82,9 +82,9 @@ tutorial 不是论文
 #### 2- taste over time: the temporal dynamics of user preferences
 [paper](http://www.cs.cornell.edu/~jlmo/ismir13.pdf)
 
-提出了一个动态嵌入概率模型，将用户和歌曲都嵌入一个d维欧几里得空间，通过空间距离来为时间动态建模。但是作者额
+提出了一个动态嵌入概率模型，将用户和歌曲都嵌入一个d维欧几里得空间，通过空间距离来为时间动态建模。但是实验部分只是可视化了用户和歌曲在嵌入空间的动态变化，而且为了能够可视化实现，只进行了2维嵌入，但是在时间的动态建模上可以有所借鉴。但是不知道最后的准确率效果如何。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTYyMTgxNyw4MzQ5MDA5MDksOTg5MT
+eyJoaXN0b3J5IjpbMTc3MjIwODAxMCw4MzQ5MDA5MDksOTg5MT
 U2MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5Njg5
 NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLD
 E3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1
