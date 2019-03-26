@@ -8,6 +8,7 @@
 * **Tag-aware RS：** 基于标签的推荐系统，使用标签来提高推荐准确率等
 * **Attention Based RS：** 采用Attention机制的论文
 * **realtime RecSystem：**  实时推荐系统
+* **temporal dynamics : ** 考虑动态时序
 
 
 ## Tag-aware RS
@@ -84,11 +85,11 @@ tutorial 不是论文
 
 提出了一个动态嵌入概率模型，将用户和歌曲都嵌入一个d维欧几里得空间，通过空间距离来为时间动态建模。但是实验部分只是可视化了用户和歌曲在嵌入空间的动态变化，而且为了能够可视化实现，只进行了2维嵌入，但是在时间的动态建模上可以有所借鉴。但是不知道最后的准确率效果如何。具体建模就是 采用最大似然概率来最大化转移概率
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODA5NTQ5NCwxNzcyMjA4MDEwLDgzND
-kwMDkwOSw5ODkxNTYzNDcsLTY1NDkxMzcyNiwtMTg2MzA5NTMw
-NywtMTMxNjk2ODk1MCwtMTgzMzA3ODY2MSwxMzQwMTM1NTI5LD
-E1MTU3NDk5NDAsMTc0OTUyMzgzNiw0MzYxMzk1MDAsNDY3NDM1
-MzEsMTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2MzY2Mjk1LC
-0xOTAwNzk2NjExLDExMjA0MDg1NDAsOTQ3NTUyODg5LDE3NjY5
-MjIyMTddfQ==
+eyJoaXN0b3J5IjpbLTEwMjAwNzI1MTAsMTc3MjIwODAxMCw4Mz
+Q5MDA5MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUz
+MDcsLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOS
+wxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQz
+NTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NS
+wtMTkwMDc5NjYxMSwxMTIwNDA4NTQwLDk0NzU1Mjg4OSwxNzY2
+OTIyMjE3XX0=
 -->
