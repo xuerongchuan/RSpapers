@@ -66,6 +66,9 @@ paper weekly 推荐的一篇论文
 https://www.paperweekly.site/papers/2561
 >本文来自南洋理工大学。作为个体的用户和群组成员的行为是不同的，作者基于用户评级历史的深度学习技术，提出了一个注意力群体推荐模型来解决群体推荐问题，模型自动学习群组中的每个用户的影响权重并根据其成员的权重偏好为群组推荐项目。虽然基于图和概率的模型已经得到了广泛的研究，但本文是第一个将Attention机制应用到群体推荐中的。
 
+#### 10-Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks
+[paper & code](https://github.com/hexiangnan/attentional_factorization_machine/tree/master/code)
+
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
 #### 2-Streaming recommender systems
@@ -87,11 +90,11 @@ tutorial 不是论文
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDY0ODY0NCwtMTUzMjE3MTU5OCwxNz
-cyMjA4MDEwLDgzNDkwMDkwOSw5ODkxNTYzNDcsLTY1NDkxMzcy
-NiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgzMzA3ODY2MS
-wxMzQwMTM1NTI5LDE1MTU3NDk5NDAsMTc0OTUyMzgzNiw0MzYx
-Mzk1MDAsNDY3NDM1MzEsMTc2ODk0MTU5NiwxNjIzODkzMjQwLC
-0xOTM2MzY2Mjk1LC0xOTAwNzk2NjExLDExMjA0MDg1NDAsOTQ3
-NTUyODg5XX0=
+eyJoaXN0b3J5IjpbMjIwNjY5NDU1LDEwNDA2NDg2NDQsLTE1Mz
+IxNzE1OTgsMTc3MjIwODAxMCw4MzQ5MDA5MDksOTg5MTU2MzQ3
+LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5Njg5NTAsLT
+E4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLDE3NDk1
+MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1OTYsMT
+YyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYxMSwxMTIw
+NDA4NTQwXX0=
 -->
