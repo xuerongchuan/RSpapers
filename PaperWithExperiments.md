@@ -8,7 +8,7 @@
 
 ### 时序漂移
 #### 1-Collaborative filtering with temporal dynamics
-1. 
+1. 数据集
 ## 隐式行为
 主要metrics：
 1. rank 
@@ -20,5 +20,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxOTY0ODExLDc2NDI0MTQ3MF19
+eyJoaXN0b3J5IjpbLTE3NzkxMDg3MTUsNzY0MjQxNDcwXX0=
 -->
