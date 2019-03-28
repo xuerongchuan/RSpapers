@@ -11,9 +11,13 @@
 ## 隐式行为
 主要metrics：
 1. rank 
-2. dian
+	* AUC
+	* ROC
+2. precision
+	* precison
+	* recall
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ5NzExNTVdfQ==
+eyJoaXN0b3J5IjpbNzY0MjQxNDcwXX0=
 -->
