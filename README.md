@@ -26,6 +26,7 @@ cross domain
 #### 3-Neural Collaborative Filtering
 [论文导读](https://www.paperweekly.site/papers/notes/390)
 [pytorch实现](https://towardsdatascience.com/paper-review-neural-collaborative-filtering-explanation-implementation-ea3e031b7f96)
+[keras实现(原版)](https://github.com/hexiangnan/neural_collaborative_filtering)
 这篇论文导读给我一种“这才是论文导读的感觉啊”，一篇论文的正确读法：
 * 动机
 * 模型
@@ -90,11 +91,11 @@ tutorial 不是论文
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNjY5NDU1LDEwNDA2NDg2NDQsLTE1Mz
-IxNzE1OTgsMTc3MjIwODAxMCw4MzQ5MDA5MDksOTg5MTU2MzQ3
-LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5Njg5NTAsLT
-E4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLDE3NDk1
-MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5NDE1OTYsMT
-YyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkwMDc5NjYxMSwxMTIw
-NDA4NTQwXX0=
+eyJoaXN0b3J5IjpbLTE5OTIyODM0ODIsMjIwNjY5NDU1LDEwND
+A2NDg2NDQsLTE1MzIxNzE1OTgsMTc3MjIwODAxMCw4MzQ5MDA5
+MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLT
+EzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1
+NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLD
+E3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkzNjM2NjI5NSwtMTkw
+MDc5NjYxMV19
 -->
