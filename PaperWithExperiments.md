@@ -11,7 +11,7 @@
 1. 数据集 ：Netflix部分数据
 2. 指标：RMSE
 3. 结果：
-
+![image.png](https://upload-images.jianshu.io/upload_images/8161042-eb1d0059766e732a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 隐式行为
 主要metrics：
 1. rank 
@@ -23,5 +23,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njc3MzQzNiw3NjQyNDE0NzBdfQ==
+eyJoaXN0b3J5IjpbNzY4ODI1MzE2LDc2NDI0MTQ3MF19
 -->
