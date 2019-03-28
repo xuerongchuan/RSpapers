@@ -35,7 +35,8 @@ cross domain
 
 而不是翻译一篇论文，看别人的翻译不如自己看原文
 >取代MF的一个基础模型
-这篇不是
+>
+这篇不是注意力模型的，分错了。
 #### 4-Next Item Recommendation with Self-Attention
 [论文导读](https://zhuanlan.zhihu.com/p/48069398)
 > **本文提出了一种基于 self-attention 的基于序列的推荐算法**，利用**self-attention**来为用户短期行为模式的依赖关系和重要性建模。同时该模型也保留了用户的长久兴趣。整个网络在 **metric learning** 的框架下，是**第一次将 self-attention 和 metric learning的结合的尝试。**
@@ -92,11 +93,11 @@ tutorial 不是论文
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjQ3MjY0OCwtMTk5MjI4MzQ4MiwyMj
-A2Njk0NTUsMTA0MDY0ODY0NCwtMTUzMjE3MTU5OCwxNzcyMjA4
-MDEwLDgzNDkwMDkwOSw5ODkxNTYzNDcsLTY1NDkxMzcyNiwtMT
-g2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgzMzA3ODY2MSwxMzQw
-MTM1NTI5LDE1MTU3NDk5NDAsMTc0OTUyMzgzNiw0MzYxMzk1MD
-AsNDY3NDM1MzEsMTc2ODk0MTU5NiwxNjIzODkzMjQwLC0xOTM2
-MzY2Mjk1XX0=
+eyJoaXN0b3J5IjpbLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMj
+IwNjY5NDU1LDEwNDA2NDg2NDQsLTE1MzIxNzE1OTgsMTc3MjIw
+ODAxMCw4MzQ5MDA5MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLT
+E4NjMwOTUzMDcsLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0
+MDEzNTUyOSwxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NT
+AwLDQ2NzQzNTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkz
+NjM2NjI5NV19
 -->
