@@ -72,7 +72,7 @@ https://www.paperweekly.site/papers/2561
 #### 10-Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks
 [paper & code](https://github.com/hexiangnan/attentional_factorization_machine/tree/master/code)
 在原有的fm模型上添加注意力模型，其实就是在fm的二次交叉项上乘一个注意力因子权重，注意力因子采用mlp模型，输入就是fm的二次交叉项，输出放入softmax函数得到我们想要的注意力因子。
-数据集：movielens latest larger  - rmse ：0.43
+数据集：movielens latest larger  - rmse ：0.43~0.44
 
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
@@ -95,7 +95,7 @@ tutorial 不是论文
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODI4OTk0MSwtMTE3NjA5OTYzNSwtMT
+eyJoaXN0b3J5IjpbMTc0MDIxNzQxOSwtMTE3NjA5OTYzNSwtMT
 k5MjI4MzQ4MiwyMjA2Njk0NTUsMTA0MDY0ODY0NCwtMTUzMjE3
 MTU5OCwxNzcyMjA4MDEwLDgzNDkwMDkwOSw5ODkxNTYzNDcsLT
 Y1NDkxMzcyNiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgz
