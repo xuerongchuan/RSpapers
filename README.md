@@ -71,6 +71,7 @@ https://www.paperweekly.site/papers/2561
 
 #### 10-Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks
 [paper & code](https://github.com/hexiangnan/attentional_factorization_machine/tree/master/code)
+在原有的fm模型上添加zhuyilimo
 
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
@@ -93,11 +94,11 @@ tutorial 不是论文
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMj
-IwNjY5NDU1LDEwNDA2NDg2NDQsLTE1MzIxNzE1OTgsMTc3MjIw
-ODAxMCw4MzQ5MDA5MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLT
-E4NjMwOTUzMDcsLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0
-MDEzNTUyOSwxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NT
-AwLDQ2NzQzNTMxLDE3Njg5NDE1OTYsMTYyMzg5MzI0MCwtMTkz
-NjM2NjI5NV19
+eyJoaXN0b3J5IjpbNjU2NDcxMzEzLC0xMTc2MDk5NjM1LC0xOT
+kyMjgzNDgyLDIyMDY2OTQ1NSwxMDQwNjQ4NjQ0LC0xNTMyMTcx
+NTk4LDE3NzIyMDgwMTAsODM0OTAwOTA5LDk4OTE1NjM0NywtNj
+U0OTEzNzI2LC0xODYzMDk1MzA3LC0xMzE2OTY4OTUwLC0xODMz
+MDc4NjYxLDEzNDAxMzU1MjksMTUxNTc0OTk0MCwxNzQ5NTIzOD
+M2LDQzNjEzOTUwMCw0Njc0MzUzMSwxNzY4OTQxNTk2LDE2MjM4
+OTMyNDBdfQ==
 -->
