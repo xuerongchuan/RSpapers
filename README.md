@@ -95,12 +95,13 @@ tutorial 不是论文
 提出了一个动态嵌入概率模型，将用户和歌曲都嵌入一个d维欧几里得空间，通过空间距离来为时间动态建模。但是实验部分只是可视化了用户和歌曲在嵌入空间的动态变化，而且为了能够可视化实现，只进行了2维嵌入，但是在时间的动态建模上可以有所借鉴。但是不知道最后的准确率效果如何。具体建模就是 采用最大似然概率来最大化转移概率
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
+#### 4- Next-song recommendation with temporal dynamics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMTIzMzIxLDE3NDAyMTc0MTksLTExNz
-YwOTk2MzUsLTE5OTIyODM0ODIsMjIwNjY5NDU1LDEwNDA2NDg2
-NDQsLTE1MzIxNzE1OTgsMTc3MjIwODAxMCw4MzQ5MDA5MDksOT
-g5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5
-Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OT
-QwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2NzQzNTMxLDE3Njg5
-NDE1OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzYwNzI3NjIsNzYxMTIzMzIxLDE3ND
+AyMTc0MTksLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMjIwNjY5
+NDU1LDEwNDA2NDg2NDQsLTE1MzIxNzE1OTgsMTc3MjIwODAxMC
+w4MzQ5MDA5MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4NjMw
+OTUzMDcsLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEzNT
+UyOSwxNTE1NzQ5OTQwLDE3NDk1MjM4MzYsNDM2MTM5NTAwLDQ2
+NzQzNTMxXX0=
 -->
