@@ -5,7 +5,7 @@
 ### 推荐任务总结
 1. 评分预测
 2. rank
-3. 
+3. next item（类似rank？）
 ## 预测评分类
 主要metrics：
 * MAE
@@ -28,6 +28,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NDg3NzExLC0xNzc1NzM0OSw3Njg4Mj
-UzMTYsNzY0MjQxNDcwXX0=
+eyJoaXN0b3J5IjpbMTk4OTk1MzIxNiwtMTc3NTczNDksNzY4OD
+I1MzE2LDc2NDI0MTQ3MF19
 -->
