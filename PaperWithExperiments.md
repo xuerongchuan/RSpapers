@@ -1,6 +1,11 @@
 # 论文与实验
 如何将paper变成自己的东西，就是通过将paper实现然后加以改进。这里主要记录一下paper的实验方法及结果
 [推荐系统常用指标介绍](https://zhuanlan.zhihu.com/p/38875570)
+
+### 推荐任务总结
+1. 评分预测
+2. rank
+3. 
 ## 预测评分类
 主要metrics：
 * MAE
@@ -23,6 +28,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU3MzQ5LDc2ODgyNTMxNiw3NjQyND
-E0NzBdfQ==
+eyJoaXN0b3J5IjpbOTE0NDg3NzExLC0xNzc1NzM0OSw3Njg4Mj
+UzMTYsNzY0MjQxNDcwXX0=
 -->
