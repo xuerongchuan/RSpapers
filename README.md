@@ -99,12 +99,14 @@ poisson矩阵分解概率模型
 #### 4- Next-song recommendation with temporal dynamics
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115003032)
 和上一篇一样都是概率模型， 使用马尔科夫链表示嵌入
+#### 5-modeling temporal dynamics of user preferences in movie recommendation
+通过一组张量分解框架来
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjYxMzM1MCwtMTQzNjA3Mjc2Miw3Nj
-ExMjMzMjEsMTc0MDIxNzQxOSwtMTE3NjA5OTYzNSwtMTk5MjI4
-MzQ4MiwyMjA2Njk0NTUsMTA0MDY0ODY0NCwtMTUzMjE3MTU5OC
-wxNzcyMjA4MDEwLDgzNDkwMDkwOSw5ODkxNTYzNDcsLTY1NDkx
-MzcyNiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgzMzA3OD
-Y2MSwxMzQwMTM1NTI5LDE1MTU3NDk5NDAsMTc0OTUyMzgzNiw0
-MzYxMzk1MDBdfQ==
+eyJoaXN0b3J5IjpbNzU0NDgyODQ5LDExMzI2MTMzNTAsLTE0Mz
+YwNzI3NjIsNzYxMTIzMzIxLDE3NDAyMTc0MTksLTExNzYwOTk2
+MzUsLTE5OTIyODM0ODIsMjIwNjY5NDU1LDEwNDA2NDg2NDQsLT
+E1MzIxNzE1OTgsMTc3MjIwODAxMCw4MzQ5MDA5MDksOTg5MTU2
+MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5Njg5NT
+AsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwxNTE1NzQ5OTQwLDE3
+NDk1MjM4MzZdfQ==
 -->
