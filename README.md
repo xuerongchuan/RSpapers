@@ -103,9 +103,9 @@ poisson矩阵分解概率模型
 推荐任务： 推荐电影类型==
 通过耦合张量分解框架来建模用户偏好中的时序动态，同时采用了用户的人口统计学信息来辅助推荐。
 
-数据处理：将movielens -1m的数据分成了6个时间段
+数据处理：将movielens -1m横跨36个月的数据分成了6个时间段，结合yon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDg1NzA1OSwtNzA3NTkyMzUxLDEwMj
+eyJoaXN0b3J5IjpbMTU3ODI3Mjk5NywtNzA3NTkyMzUxLDEwMj
 I3NDQxMzUsMTEzMjYxMzM1MCwtMTQzNjA3Mjc2Miw3NjExMjMz
 MjEsMTc0MDIxNzQxOSwtMTE3NjA5OTYzNSwtMTk5MjI4MzQ4Mi
 wyMjA2Njk0NTUsMTA0MDY0ODY0NCwtMTUzMjE3MTU5OCwxNzcy
