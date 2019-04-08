@@ -100,13 +100,14 @@ poisson矩阵分解概率模型
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115003032)
 和上一篇一样都是概率模型， 使用马尔科夫链表示嵌入
 #### 5-modeling temporal dynamics of user preferences in movie recommendation 2018IEEE
+推荐任务： 推荐电影类型==
 通过一组张量分解框架来建模用户偏好中的时序动态，同时采用了用户的人口统计学信息来辅助推荐。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjc0NDEzNSwxMTMyNjEzMzUwLC0xND
-M2MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0xMTc2MDk5
-NjM1LC0xOTkyMjgzNDgyLDIyMDY2OTQ1NSwxMDQwNjQ4NjQ0LC
-0xNTMyMTcxNTk4LDE3NzIyMDgwMTAsODM0OTAwOTA5LDk4OTE1
-NjM0NywtNjU0OTEzNzI2LC0xODYzMDk1MzA3LC0xMzE2OTY4OT
-UwLC0xODMzMDc4NjYxLDEzNDAxMzU1MjksMTUxNTc0OTk0MCwx
-NzQ5NTIzODM2XX0=
+eyJoaXN0b3J5IjpbLTcwNzU5MjM1MSwxMDIyNzQ0MTM1LDExMz
+I2MTMzNTAsLTE0MzYwNzI3NjIsNzYxMTIzMzIxLDE3NDAyMTc0
+MTksLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMjIwNjY5NDU1LD
+EwNDA2NDg2NDQsLTE1MzIxNzE1OTgsMTc3MjIwODAxMCw4MzQ5
+MDA5MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4NjMwOTUzMD
+csLTEzMTY5Njg5NTAsLTE4MzMwNzg2NjEsMTM0MDEzNTUyOSwx
+NTE1NzQ5OTQwXX0=
 -->
