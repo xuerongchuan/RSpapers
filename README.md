@@ -104,13 +104,14 @@ poisson矩阵分解概率模型
 通过耦合张量分解框架来建模用户偏好中的时序动态，同时采用了用户的人口统计学信息来辅助推荐。
 
 数据处理：将movielens -1m横跨36个月的数据分成了6个时间段，结合用户的人口统计学信息设计了24个属性特诊。
-
+#### 6-# Time and Local Popularity in top-N Recommendation
+[paper](https://arxiv.org/abs/1807.04204)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NjU2OTg4LC05MTMwNjg5NDYsLTcwNz
-U5MjM1MSwxMDIyNzQ0MTM1LDExMzI2MTMzNTAsLTE0MzYwNzI3
-NjIsNzYxMTIzMzIxLDE3NDAyMTc0MTksLTExNzYwOTk2MzUsLT
-E5OTIyODM0ODIsMjIwNjY5NDU1LDEwNDA2NDg2NDQsLTE1MzIx
-NzE1OTgsMTc3MjIwODAxMCw4MzQ5MDA5MDksOTg5MTU2MzQ3LC
-02NTQ5MTM3MjYsLTE4NjMwOTUzMDcsLTEzMTY5Njg5NTAsLTE4
-MzMwNzg2NjFdfQ==
+eyJoaXN0b3J5IjpbNTM4MDA1MjgsLTkxMzA2ODk0NiwtNzA3NT
+kyMzUxLDEwMjI3NDQxMzUsMTEzMjYxMzM1MCwtMTQzNjA3Mjc2
+Miw3NjExMjMzMjEsMTc0MDIxNzQxOSwtMTE3NjA5OTYzNSwtMT
+k5MjI4MzQ4MiwyMjA2Njk0NTUsMTA0MDY0ODY0NCwtMTUzMjE3
+MTU5OCwxNzcyMjA4MDEwLDgzNDkwMDkwOSw5ODkxNTYzNDcsLT
+Y1NDkxMzcyNiwtMTg2MzA5NTMwNywtMTMxNjk2ODk1MCwtMTgz
+MzA3ODY2MV19
 -->
