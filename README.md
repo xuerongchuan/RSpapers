@@ -107,13 +107,13 @@ poisson矩阵分解概率模型
 #### 6-# Time and Local Popularity in top-N Recommendation
 [paper](https://arxiv.org/abs/1807.04204)
 #### 7- TCARS
-利用时间信息计算相似用户，假设在同一时间段内，评分相似的用户有着更xiang
+利用时间信息计算相似用户，假设在同一时间段内，评分相似的用户有着更相近的爱好。以此构建用户 相似度矩阵，以便后期用户聚类计算交叉团体。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI5NzQ0NzcsNTM4MDA1MjgsLTkxMz
-A2ODk0NiwtNzA3NTkyMzUxLDEwMjI3NDQxMzUsMTEzMjYxMzM1
-MCwtMTQzNjA3Mjc2Miw3NjExMjMzMjEsMTc0MDIxNzQxOSwtMT
-E3NjA5OTYzNSwtMTk5MjI4MzQ4MiwyMjA2Njk0NTUsMTA0MDY0
-ODY0NCwtMTUzMjE3MTU5OCwxNzcyMjA4MDEwLDgzNDkwMDkwOS
-w5ODkxNTYzNDcsLTY1NDkxMzcyNiwtMTg2MzA5NTMwNywtMTMx
-Njk2ODk1MF19
+eyJoaXN0b3J5IjpbMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEzMD
+Y4OTQ2LC03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMzUw
+LC0xNDM2MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0xMT
+c2MDk5NjM1LC0xOTkyMjgzNDgyLDIyMDY2OTQ1NSwxMDQwNjQ4
+NjQ0LC0xNTMyMTcxNTk4LDE3NzIyMDgwMTAsODM0OTAwOTA5LD
+k4OTE1NjM0NywtNjU0OTEzNzI2LC0xODYzMDk1MzA3LC0xMzE2
+OTY4OTUwXX0=
 -->
