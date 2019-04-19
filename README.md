@@ -106,14 +106,15 @@ poisson矩阵分解概率模型
 数据处理：将movielens -1m横跨36个月的数据分成了6个时间段，结合用户的人口统计学信息设计了24个属性特诊。
 #### 6-# Time and Local Popularity in top-N Recommendation
 [paper](https://arxiv.org/abs/1807.04204)
+根据时间序列，为用户寻找先驱，并设计了时间衰减函数，通过先驱对物品的评分次数，乘以时间衰减后得到用户对物品的权重，最后实现topN推荐。
 #### 7- TCARS
 利用时间信息计算相似用户，假设在同一时间段内，评分相似的用户有着更相近的爱好。以此构建用户 相似度矩阵，以便后期用户聚类计算交叉团体。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEzMD
-Y4OTQ2LC03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMzUw
-LC0xNDM2MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0xMT
-c2MDk5NjM1LC0xOTkyMjgzNDgyLDIyMDY2OTQ1NSwxMDQwNjQ4
-NjQ0LC0xNTMyMTcxNTk4LDE3NzIyMDgwMTAsODM0OTAwOTA5LD
-k4OTE1NjM0NywtNjU0OTEzNzI2LC0xODYzMDk1MzA3LC0xMzE2
-OTY4OTUwXX0=
+eyJoaXN0b3J5IjpbMTA3MDM1MzM1MSwxNjI2MTAzODIwLDUzOD
+AwNTI4LC05MTMwNjg5NDYsLTcwNzU5MjM1MSwxMDIyNzQ0MTM1
+LDExMzI2MTMzNTAsLTE0MzYwNzI3NjIsNzYxMTIzMzIxLDE3ND
+AyMTc0MTksLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMjIwNjY5
+NDU1LDEwNDA2NDg2NDQsLTE1MzIxNzE1OTgsMTc3MjIwODAxMC
+w4MzQ5MDA5MDksOTg5MTU2MzQ3LC02NTQ5MTM3MjYsLTE4NjMw
+OTUzMDddfQ==
 -->
