@@ -110,9 +110,9 @@ poisson矩阵分解概率模型
 #### 7- TCARS
 利用时间信息计算相似用户，假设在同一时间段内，评分相似的用户有着更相近的爱好。以此构建用户 相似度矩阵，以便后期用户聚类计算交叉团体。
 #### 8--Multi-Rate Deep Learning for Temporal Recommendation
-本文
+本文利用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjczMDY4MDYsMTA3MDM1MzM1MSwxNj
+eyJoaXN0b3J5IjpbLTEzNzY3NTY5ODEsMTA3MDM1MzM1MSwxNj
 I2MTAzODIwLDUzODAwNTI4LC05MTMwNjg5NDYsLTcwNzU5MjM1
 MSwxMDIyNzQ0MTM1LDExMzI2MTMzNTAsLTE0MzYwNzI3NjIsNz
 YxMTIzMzIxLDE3NDAyMTc0MTksLTExNzYwOTk2MzUsLTE5OTIy
