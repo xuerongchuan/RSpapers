@@ -117,13 +117,14 @@ poisson矩阵分解概率模型
 #### 1-session based recommendations with recurrent neural networks
 [导读](https://zhuanlan.zhihu.com/p/30720579)
 #### 2-Embedding-based News Recommendation for Millions of Users
+[code](https://github.com/Leavingseason/rnn_recsys)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQ3MDUwNSwyMDI0MzEyMzYyLC04NT
-AyMzY4NTUsLTEzNzY3NTY5ODEsMTA3MDM1MzM1MSwxNjI2MTAz
-ODIwLDUzODAwNTI4LC05MTMwNjg5NDYsLTcwNzU5MjM1MSwxMD
-IyNzQ0MTM1LDExMzI2MTMzNTAsLTE0MzYwNzI3NjIsNzYxMTIz
-MzIxLDE3NDAyMTc0MTksLTExNzYwOTk2MzUsLTE5OTIyODM0OD
-IsMjIwNjY5NDU1LDEwNDA2NDg2NDQsLTE1MzIxNzE1OTgsMTc3
-MjIwODAxMF19
+eyJoaXN0b3J5IjpbLTE4NjcyNzUwOTUsMjAyNDMxMjM2MiwtOD
+UwMjM2ODU1LC0xMzc2NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEw
+MzgyMCw1MzgwMDUyOCwtOTEzMDY4OTQ2LC03MDc1OTIzNTEsMT
+AyMjc0NDEzNSwxMTMyNjEzMzUwLC0xNDM2MDcyNzYyLDc2MTEy
+MzMyMSwxNzQwMjE3NDE5LC0xMTc2MDk5NjM1LC0xOTkyMjgzND
+gyLDIyMDY2OTQ1NSwxMDQwNjQ4NjQ0LC0xNTMyMTcxNTk4LDE3
+NzIyMDgwMTBdfQ==
 -->
