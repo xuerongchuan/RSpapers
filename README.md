@@ -118,13 +118,13 @@ poisson矩阵分解概率模型
 [导读](https://zhuanlan.zhihu.com/p/30720579)
 #### 2-Embedding-based News Recommendation for Millions of Users
 [code](https://github.com/Leavingseason/rnn_recsys)
-通过rnn为用户历史数据建模，r
+通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzEzMTM4LC0xODY3Mjc1MDk1LDIwMj
-QzMTIzNjIsLTg1MDIzNjg1NSwtMTM3Njc1Njk4MSwxMDcwMzUz
-MzUxLDE2MjYxMDM4MjAsNTM4MDA1MjgsLTkxMzA2ODk0NiwtNz
-A3NTkyMzUxLDEwMjI3NDQxMzUsMTEzMjYxMzM1MCwtMTQzNjA3
-Mjc2Miw3NjExMjMzMjEsMTc0MDIxNzQxOSwtMTE3NjA5OTYzNS
-wtMTk5MjI4MzQ4MiwyMjA2Njk0NTUsMTA0MDY0ODY0NCwtMTUz
-MjE3MTU5OF19
+eyJoaXN0b3J5IjpbLTE1MDk3MzU4MjAsLTE4NjcyNzUwOTUsMj
+AyNDMxMjM2MiwtODUwMjM2ODU1LC0xMzc2NzU2OTgxLDEwNzAz
+NTMzNTEsMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEzMDY4OTQ2LC
+03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMzUwLC0xNDM2
+MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0xMTc2MDk5Nj
+M1LC0xOTkyMjgzNDgyLDIyMDY2OTQ1NSwxMDQwNjQ4NjQ0LC0x
+NTMyMTcxNTk4XX0=
 -->
