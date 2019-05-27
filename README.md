@@ -103,7 +103,11 @@ poisson矩阵分解概率模型
 推荐任务： 推荐电影类型==
 通过耦合张量分解框架来建模用户偏好中的时序动态，同时采用了用户的人口统计学信息来辅助推荐。
 
-数据处理：将movielens -1m横跨36个月的数据分成了6个时间段，结合用户的人口统计学信息设计了24个属性特诊。
+数据处理：将movielens -1m横跨36个月的数据分成了6个时间段，结合用户的人口统计学信息设计了24个属性特征。
+对比算法：
+SVDTime++
+TF-2011
+UPD-CTF - 2016
 #### 6-# Time and Local Popularity in top-N Recommendation
 [paper](https://arxiv.org/abs/1807.04204)
 根据时间序列，为用户寻找先驱，并设计了时间衰减函数，通过先驱对物品的评分次数，乘以时间衰减后得到用户对物品的权重，最后实现topN推荐。
@@ -121,11 +125,11 @@ poisson矩阵分解概率模型
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzA5MjY2NywtNzcyNTg4MzAzLDE5OD
-I1MDc0MzYsLTE1MDk3MzU4MjAsLTE4NjcyNzUwOTUsMjAyNDMx
-MjM2MiwtODUwMjM2ODU1LC0xMzc2NzU2OTgxLDEwNzAzNTMzNT
-EsMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEzMDY4OTQ2LC03MDc1
-OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMzUwLC0xNDM2MDcyNz
-YyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0xMTc2MDk5NjM1LC0x
-OTkyMjgzNDgyXX0=
+eyJoaXN0b3J5IjpbLTE4NjAwNjMwOTMsMTk1NzA5MjY2NywtNz
+cyNTg4MzAzLDE5ODI1MDc0MzYsLTE1MDk3MzU4MjAsLTE4Njcy
+NzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2ODU1LC0xMzc2NzU2OT
+gxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEz
+MDY4OTQ2LC03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMz
+UwLC0xNDM2MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0x
+MTc2MDk5NjM1XX0=
 -->
