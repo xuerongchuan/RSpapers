@@ -112,7 +112,7 @@ poisson矩阵分解概率模型
 #### 8--Multi-Rate Deep Learning for Temporal Recommendation
 本文利用神经网络建模用户长短期行为特征，采用的神经网络为RNN
 #### 9-Temporal learning and sequence modeling for a job recommender system
-利用encoder-decoder模型为用户商品行为建模，采用LSTM cell，为用户学习嵌入时不采用用户id，而是直接使用用户的人口统计信息作为属性来学习嵌入模型，这样就可以随机为xunliansh
+利用encoder-decoder模型为用户商品行为建模，采用LSTM cell，为用户学习嵌入时不采用用户id，而是直接使用用户的人口统计信息作为属性来学习嵌入模型，这样就可以随机为样本划分训练集和测试集而不用考虑用户
 
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
@@ -121,11 +121,11 @@ poisson矩阵分解概率模型
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzMzMzg2LDE5ODI1MDc0MzYsLTE1MD
-k3MzU4MjAsLTE4NjcyNzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2
-ODU1LC0xMzc2NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMC
-w1MzgwMDUyOCwtOTEzMDY4OTQ2LC03MDc1OTIzNTEsMTAyMjc0
-NDEzNSwxMTMyNjEzMzUwLC0xNDM2MDcyNzYyLDc2MTEyMzMyMS
-wxNzQwMjE3NDE5LC0xMTc2MDk5NjM1LC0xOTkyMjgzNDgyLDIy
-MDY2OTQ1NV19
+eyJoaXN0b3J5IjpbMTY5NDMyOTQyMywxOTgyNTA3NDM2LC0xNT
+A5NzM1ODIwLC0xODY3Mjc1MDk1LDIwMjQzMTIzNjIsLTg1MDIz
+Njg1NSwtMTM3Njc1Njk4MSwxMDcwMzUzMzUxLDE2MjYxMDM4Mj
+AsNTM4MDA1MjgsLTkxMzA2ODk0NiwtNzA3NTkyMzUxLDEwMjI3
+NDQxMzUsMTEzMjYxMzM1MCwtMTQzNjA3Mjc2Miw3NjExMjMzMj
+EsMTc0MDIxNzQxOSwtMTE3NjA5OTYzNSwtMTk5MjI4MzQ4Miwy
+MjA2Njk0NTVdfQ==
 -->
