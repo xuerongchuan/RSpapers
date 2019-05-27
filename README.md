@@ -113,6 +113,7 @@ poisson矩阵分解概率模型
 本文利用神经网络建模用户长短期行为特征，采用的神经网络为RNN
 #### 9-Temporal learning and sequence modeling for a job recommender system
 
+
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
 [导读](https://zhuanlan.zhihu.com/p/30720579)
@@ -120,11 +121,11 @@ poisson矩阵分解概率模型
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjUwNzQzNiwtMTUwOTczNTgyMCwtMT
-g2NzI3NTA5NSwyMDI0MzEyMzYyLC04NTAyMzY4NTUsLTEzNzY3
-NTY5ODEsMTA3MDM1MzM1MSwxNjI2MTAzODIwLDUzODAwNTI4LC
-05MTMwNjg5NDYsLTcwNzU5MjM1MSwxMDIyNzQ0MTM1LDExMzI2
-MTMzNTAsLTE0MzYwNzI3NjIsNzYxMTIzMzIxLDE3NDAyMTc0MT
-ksLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMjIwNjY5NDU1LDEw
-NDA2NDg2NDRdfQ==
+eyJoaXN0b3J5IjpbNDExOTQ2OTA2LDE5ODI1MDc0MzYsLTE1MD
+k3MzU4MjAsLTE4NjcyNzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2
+ODU1LC0xMzc2NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMC
+w1MzgwMDUyOCwtOTEzMDY4OTQ2LC03MDc1OTIzNTEsMTAyMjc0
+NDEzNSwxMTMyNjEzMzUwLC0xNDM2MDcyNzYyLDc2MTEyMzMyMS
+wxNzQwMjE3NDE5LC0xMTc2MDk5NjM1LC0xOTkyMjgzNDgyLDIy
+MDY2OTQ1NV19
 -->
