@@ -111,7 +111,7 @@ poisson矩阵分解概率模型
 利用时间信息计算相似用户，假设在同一时间段内，评分相似的用户有着更相近的爱好。以此构建用户 相似度矩阵，以便后期用户聚类计算交叉团体。
 #### 8--Multi-Rate Deep Learning for Temporal Recommendation
 本文利用神经网络建模用户长短期行为特征，采用的神经网络为RNN
-#### 
+#### 9-Temporal learning and sequence modeling for a job recommender system
 
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
@@ -120,11 +120,11 @@ poisson矩阵分解概率模型
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3MzU4MjAsLTE4NjcyNzUwOTUsMj
-AyNDMxMjM2MiwtODUwMjM2ODU1LC0xMzc2NzU2OTgxLDEwNzAz
-NTMzNTEsMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEzMDY4OTQ2LC
-03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMzUwLC0xNDM2
-MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0xMTc2MDk5Nj
-M1LC0xOTkyMjgzNDgyLDIyMDY2OTQ1NSwxMDQwNjQ4NjQ0LC0x
-NTMyMTcxNTk4XX0=
+eyJoaXN0b3J5IjpbMTk4MjUwNzQzNiwtMTUwOTczNTgyMCwtMT
+g2NzI3NTA5NSwyMDI0MzEyMzYyLC04NTAyMzY4NTUsLTEzNzY3
+NTY5ODEsMTA3MDM1MzM1MSwxNjI2MTAzODIwLDUzODAwNTI4LC
+05MTMwNjg5NDYsLTcwNzU5MjM1MSwxMDIyNzQ0MTM1LDExMzI2
+MTMzNTAsLTE0MzYwNzI3NjIsNzYxMTIzMzIxLDE3NDAyMTc0MT
+ksLTExNzYwOTk2MzUsLTE5OTIyODM0ODIsMjIwNjY5NDU1LDEw
+NDA2NDg2NDRdfQ==
 -->
