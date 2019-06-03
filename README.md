@@ -52,8 +52,7 @@ $$Attention(Q,K,V)=Attention(Q, Q, Q)$$
 ### 6-self-attention 
 [介绍博客-self attention in NLP](http://www.cnblogs.com/robert-dlut/p/8638283.html)
 
-#### 7-Attentive collaborative filtering
-Multimedia recommendation with item-and component-level attention
+#### 7-Attentive collaborative filtering Multimedia recommendation with item-and component-level attention
 [论文导读](https://zhuanlan.zhihu.com/p/32787606)
 利用多媒体内容特征学习component-level attention网络， 然后再利用该网络的结果学习item-level attention网络，其实就是嵌套了两层网络。
 
@@ -125,11 +124,11 @@ UPD-CTF - 2016
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAwNjMwOTMsMTk1NzA5MjY2NywtNz
-cyNTg4MzAzLDE5ODI1MDc0MzYsLTE1MDk3MzU4MjAsLTE4Njcy
-NzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2ODU1LC0xMzc2NzU2OT
-gxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEz
-MDY4OTQ2LC03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMyNjEzMz
-UwLC0xNDM2MDcyNzYyLDc2MTEyMzMyMSwxNzQwMjE3NDE5LC0x
-MTc2MDk5NjM1XX0=
+eyJoaXN0b3J5IjpbMjc1OTA4MjE5LC0xODYwMDYzMDkzLDE5NT
+cwOTI2NjcsLTc3MjU4ODMwMywxOTgyNTA3NDM2LC0xNTA5NzM1
+ODIwLC0xODY3Mjc1MDk1LDIwMjQzMTIzNjIsLTg1MDIzNjg1NS
+wtMTM3Njc1Njk4MSwxMDcwMzUzMzUxLDE2MjYxMDM4MjAsNTM4
+MDA1MjgsLTkxMzA2ODk0NiwtNzA3NTkyMzUxLDEwMjI3NDQxMz
+UsMTEzMjYxMzM1MCwtMTQzNjA3Mjc2Miw3NjExMjMzMjEsMTc0
+MDIxNzQxOV19
 -->
