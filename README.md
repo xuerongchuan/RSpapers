@@ -95,7 +95,7 @@ tutorial 不是论文
 #### 3-Recurrent Poisson Factorization for Temporal Recommendation
 [paper](https://arxiv.org/pdf/1703.01442.pdf)
 poisson矩阵分解概率模型
-#### 4- Next-song recommendation with temporal dynamics
+#### 4- Next-song recommendation with temporal dynamics 2015
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115003032)
 和上一篇一样都是概率模型， 使用马尔科夫链表示嵌入
 #### 5-modeling temporal dynamics of user preferences in movie recommendation 2018IEEE
@@ -124,11 +124,11 @@ UPD-CTF - 2016
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1OTA4MjE5LC0xODYwMDYzMDkzLDE5NT
-cwOTI2NjcsLTc3MjU4ODMwMywxOTgyNTA3NDM2LC0xNTA5NzM1
-ODIwLC0xODY3Mjc1MDk1LDIwMjQzMTIzNjIsLTg1MDIzNjg1NS
-wtMTM3Njc1Njk4MSwxMDcwMzUzMzUxLDE2MjYxMDM4MjAsNTM4
-MDA1MjgsLTkxMzA2ODk0NiwtNzA3NTkyMzUxLDEwMjI3NDQxMz
-UsMTEzMjYxMzM1MCwtMTQzNjA3Mjc2Miw3NjExMjMzMjEsMTc0
-MDIxNzQxOV19
+eyJoaXN0b3J5IjpbMTQ3NDExMjIwNywyNzU5MDgyMTksLTE4Nj
+AwNjMwOTMsMTk1NzA5MjY2NywtNzcyNTg4MzAzLDE5ODI1MDc0
+MzYsLTE1MDk3MzU4MjAsLTE4NjcyNzUwOTUsMjAyNDMxMjM2Mi
+wtODUwMjM2ODU1LC0xMzc2NzU2OTgxLDEwNzAzNTMzNTEsMTYy
+NjEwMzgyMCw1MzgwMDUyOCwtOTEzMDY4OTQ2LC03MDc1OTIzNT
+EsMTAyMjc0NDEzNSwxMTMyNjEzMzUwLC0xNDM2MDcyNzYyLDc2
+MTEyMzMyMV19
 -->
