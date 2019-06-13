@@ -112,10 +112,12 @@ UPD-CTF - 2016
 根据时间序列，为用户寻找先驱，并设计了时间衰减函数，通过先驱对物品的评分次数，乘以时间衰减后得到用户对物品的权重，最后实现topN推荐。
 #### 7- TCARS
 利用时间信息计算相似用户，假设在同一时间段内，评分相似的用户有着更相近的爱好。以此构建用户 相似度矩阵，以便后期用户聚类计算交叉团体。
-#### 8--Multi-Rate Deep Learning for Temporal Recommendation
+#### 8--Multi-Rate Deep Learning for Temporal Recommendation 2016
 本文利用神经网络建模用户长短期行为特征，采用的神经网络为RNN
-#### 9-Temporal learning and sequence modeling for a job recommender system
+#### 9-Temporal learning and sequence modeling for a job recommender system 2016
 利用encoder-decoder模型为用户商品行为建模，采用LSTM cell。为用户学习嵌入时不采用用户id，而是直接使用用户的人口统计信息作为属性来学习嵌入模型，这样就可以随机为样本划分训练集和测试集而不用考虑用户。
+
+#### 10-
 
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
@@ -124,7 +126,7 @@ UPD-CTF - 2016
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTQyMTk1MywxNDc0MTEyMjA3LDI3NT
+eyJoaXN0b3J5IjpbLTg5NjU1NTA5MywxNDc0MTEyMjA3LDI3NT
 kwODIxOSwtMTg2MDA2MzA5MywxOTU3MDkyNjY3LC03NzI1ODgz
 MDMsMTk4MjUwNzQzNiwtMTUwOTczNTgyMCwtMTg2NzI3NTA5NS
 wyMDI0MzEyMzYyLC04NTAyMzY4NTUsLTEzNzY3NTY5ODEsMTA3
