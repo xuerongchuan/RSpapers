@@ -117,8 +117,10 @@ UPD-CTF - 2016
 #### 9-Temporal learning and sequence modeling for a job recommender system 2016
 利用encoder-decoder模型为用户商品行为建模，采用LSTM cell。为用户学习嵌入时不采用用户id，而是直接使用用户的人口统计信息作为属性来学习嵌入模型，这样就可以随机为样本划分训练集和测试集而不用考虑用户。
 
-#### 10-
-
+#### 10-# Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors 2018
+[paperweekly](https://www.paperweekly.site/papers/2414)
+>本文是中科大发表于SIGKDD 2018的工作。现有的序列化推荐方法往往仅对消费者的短期行为特征进行分析，没有充分考虑到用户的长期偏好以及偏好的动态变化过程。本文基于用户行为区别，提出了一个针对商品推荐任务的全新BINN（Behavior-Intensive Neural Network）模型，该模型包括一个Item Embedding和两个RNN。Item Embedding对用户产生的item序列运用类Skip-gram的模型，两个RNN分别用于捕获用户当前偏好和历史偏好。
+>
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
 [导读](https://zhuanlan.zhihu.com/p/30720579)
@@ -126,11 +128,11 @@ UPD-CTF - 2016
 [code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjU1NTA5MywxNDc0MTEyMjA3LDI3NT
-kwODIxOSwtMTg2MDA2MzA5MywxOTU3MDkyNjY3LC03NzI1ODgz
-MDMsMTk4MjUwNzQzNiwtMTUwOTczNTgyMCwtMTg2NzI3NTA5NS
-wyMDI0MzEyMzYyLC04NTAyMzY4NTUsLTEzNzY3NTY5ODEsMTA3
-MDM1MzM1MSwxNjI2MTAzODIwLDUzODAwNTI4LC05MTMwNjg5ND
-YsLTcwNzU5MjM1MSwxMDIyNzQ0MTM1LDExMzI2MTMzNTAsLTE0
-MzYwNzI3NjJdfQ==
+eyJoaXN0b3J5IjpbMzA5NTA4MDM5LDE0NzQxMTIyMDcsMjc1OT
+A4MjE5LC0xODYwMDYzMDkzLDE5NTcwOTI2NjcsLTc3MjU4ODMw
+MywxOTgyNTA3NDM2LC0xNTA5NzM1ODIwLC0xODY3Mjc1MDk1LD
+IwMjQzMTIzNjIsLTg1MDIzNjg1NSwtMTM3Njc1Njk4MSwxMDcw
+MzUzMzUxLDE2MjYxMDM4MjAsNTM4MDA1MjgsLTkxMzA2ODk0Ni
+wtNzA3NTkyMzUxLDEwMjI3NDQxMzUsMTEzMjYxMzM1MCwtMTQz
+NjA3Mjc2Ml19
 -->
