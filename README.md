@@ -125,14 +125,14 @@ UPD-CTF - 2016
 #### 1-session based recommendations with recurrent neural networks
 [导读](https://zhuanlan.zhihu.com/p/30720579)
 #### 2-Embedding-based News Recommendation for Millions of Users
-[code](https://github.com/Leavingseason/rnn_recsys)
+[github-code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NTA4MDM5LDE0NzQxMTIyMDcsMjc1OT
-A4MjE5LC0xODYwMDYzMDkzLDE5NTcwOTI2NjcsLTc3MjU4ODMw
-MywxOTgyNTA3NDM2LC0xNTA5NzM1ODIwLC0xODY3Mjc1MDk1LD
-IwMjQzMTIzNjIsLTg1MDIzNjg1NSwtMTM3Njc1Njk4MSwxMDcw
-MzUzMzUxLDE2MjYxMDM4MjAsNTM4MDA1MjgsLTkxMzA2ODk0Ni
-wtNzA3NTkyMzUxLDEwMjI3NDQxMzUsMTEzMjYxMzM1MCwtMTQz
-NjA3Mjc2Ml19
+eyJoaXN0b3J5IjpbMTgwMDA4MDUyMywzMDk1MDgwMzksMTQ3ND
+ExMjIwNywyNzU5MDgyMTksLTE4NjAwNjMwOTMsMTk1NzA5MjY2
+NywtNzcyNTg4MzAzLDE5ODI1MDc0MzYsLTE1MDk3MzU4MjAsLT
+E4NjcyNzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2ODU1LC0xMzc2
+NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMCw1MzgwMDUyOC
+wtOTEzMDY4OTQ2LC03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMy
+NjEzMzUwXX0=
 -->
