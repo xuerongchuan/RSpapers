@@ -124,15 +124,19 @@ UPD-CTF - 2016
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
 [导读](https://zhuanlan.zhihu.com/p/30720579)
+[解读与代码复现](https://www.paperweekly.site/papers/1435)
 #### 2-Embedding-based News Recommendation for Millions of Users
 [github-code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
+#### 3-# Leveraging Long and Short-term Information in Content-aware Movie Recommendation
+[paperweekly](https://www.paperweekly.site/papers/1435)
+ 融合 MF 和 RNN 的电影推荐系统，多模型融合
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDA4MDUyMywzMDk1MDgwMzksMTQ3ND
-ExMjIwNywyNzU5MDgyMTksLTE4NjAwNjMwOTMsMTk1NzA5MjY2
-NywtNzcyNTg4MzAzLDE5ODI1MDc0MzYsLTE1MDk3MzU4MjAsLT
-E4NjcyNzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2ODU1LC0xMzc2
-NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMCw1MzgwMDUyOC
-wtOTEzMDY4OTQ2LC03MDc1OTIzNTEsMTAyMjc0NDEzNSwxMTMy
-NjEzMzUwXX0=
+eyJoaXN0b3J5IjpbODg2NjcyMzIxLDE4MDAwODA1MjMsMzA5NT
+A4MDM5LDE0NzQxMTIyMDcsMjc1OTA4MjE5LC0xODYwMDYzMDkz
+LDE5NTcwOTI2NjcsLTc3MjU4ODMwMywxOTgyNTA3NDM2LC0xNT
+A5NzM1ODIwLC0xODY3Mjc1MDk1LDIwMjQzMTIzNjIsLTg1MDIz
+Njg1NSwtMTM3Njc1Njk4MSwxMDcwMzUzMzUxLDE2MjYxMDM4Mj
+AsNTM4MDA1MjgsLTkxMzA2ODk0NiwtNzA3NTkyMzUxLDEwMjI3
+NDQxMzVdfQ==
 -->
