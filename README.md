@@ -131,12 +131,13 @@ UPD-CTF - 2016
 #### 3-# Leveraging Long and Short-term Information in Content-aware Movie Recommendation
 [paperweekly](https://www.paperweekly.site/papers/1435)
  融合 MF 和 RNN 的电影推荐系统，多模型融合
+ >本文提出了一种新颖的基于生成对抗网络的推荐系统，采用强化学习动态调整历史长期偏好和短期会话的模型，此外，还加入了封面图片特征进一步提升系统性能，最后在两个数据集上做到state-of-art的性能。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTYzNjQ0Nyw4ODY2NzIzMjEsMTgwMD
-A4MDUyMywzMDk1MDgwMzksMTQ3NDExMjIwNywyNzU5MDgyMTks
-LTE4NjAwNjMwOTMsMTk1NzA5MjY2NywtNzcyNTg4MzAzLDE5OD
-I1MDc0MzYsLTE1MDk3MzU4MjAsLTE4NjcyNzUwOTUsMjAyNDMx
-MjM2MiwtODUwMjM2ODU1LC0xMzc2NzU2OTgxLDEwNzAzNTMzNT
-EsMTYyNjEwMzgyMCw1MzgwMDUyOCwtOTEzMDY4OTQ2LC03MDc1
-OTIzNTFdfQ==
+eyJoaXN0b3J5IjpbLTY2MDI0Nzg0MCwtNjE1NjM2NDQ3LDg4Nj
+Y3MjMyMSwxODAwMDgwNTIzLDMwOTUwODAzOSwxNDc0MTEyMjA3
+LDI3NTkwODIxOSwtMTg2MDA2MzA5MywxOTU3MDkyNjY3LC03Nz
+I1ODgzMDMsMTk4MjUwNzQzNiwtMTUwOTczNTgyMCwtMTg2NzI3
+NTA5NSwyMDI0MzEyMzYyLC04NTAyMzY4NTUsLTEzNzY3NTY5OD
+EsMTA3MDM1MzM1MSwxNjI2MTAzODIwLDUzODAwNTI4LC05MTMw
+Njg5NDZdfQ==
 -->
