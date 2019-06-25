@@ -124,7 +124,7 @@ UPD-CTF - 2016
 ## RNN 
 #### 1-session based recommendations with recurrent neural networks
 [导读](https://zhuanlan.zhihu.com/p/30720579)
-[w解读与代码复现](https://www.paperweekly.site/papers/1435)
+[文文的解读与代码复现](https://www.paperweekly.site/papers/1435)
 #### 2-Embedding-based News Recommendation for Millions of Users
 [github-code](https://github.com/Leavingseason/rnn_recsys)
 通过rnn为用户历史数据建模
@@ -132,7 +132,7 @@ UPD-CTF - 2016
 [paperweekly](https://www.paperweekly.site/papers/1435)
  融合 MF 和 RNN 的电影推荐系统，多模型融合
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDMwNjk5MCw4ODY2NzIzMjEsMTgwMD
+eyJoaXN0b3J5IjpbLTYxNTYzNjQ0Nyw4ODY2NzIzMjEsMTgwMD
 A4MDUyMywzMDk1MDgwMzksMTQ3NDExMjIwNywyNzU5MDgyMTks
 LTE4NjAwNjMwOTMsMTk1NzA5MjY2NywtNzcyNTg4MzAzLDE5OD
 I1MDc0MzYsLTE1MDk3MzU4MjAsLTE4NjcyNzUwOTUsMjAyNDMx
