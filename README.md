@@ -73,7 +73,8 @@ https://www.paperweekly.site/papers/2561
 在原有的fm模型上添加注意力模型，其实就是在fm的二次交叉项上乘一个注意力因子权重，注意力因子采用mlp模型，输入就是fm的二次交叉项，输出放入softmax函数得到我们想要的注意力因子。
 
 数据集：movielens latest larger  - rmse ：0.43~0.44
-
+#### 11-ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation
+[w
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
 #### 2-Streaming recommender systems
@@ -133,11 +134,11 @@ UPD-CTF - 2016
  融合 MF 和 RNN 的电影推荐系统，多模型融合
  >本文提出了一种新颖的基于生成对抗网络的推荐系统，采用强化学习动态调整历史长期偏好和短期会话的模型，此外，还加入了封面图片特征进一步提升系统性能，最后在两个数据集上做到state-of-art的性能。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDI0Nzg0MCwtNjE1NjM2NDQ3LDg4Nj
-Y3MjMyMSwxODAwMDgwNTIzLDMwOTUwODAzOSwxNDc0MTEyMjA3
-LDI3NTkwODIxOSwtMTg2MDA2MzA5MywxOTU3MDkyNjY3LC03Nz
-I1ODgzMDMsMTk4MjUwNzQzNiwtMTUwOTczNTgyMCwtMTg2NzI3
-NTA5NSwyMDI0MzEyMzYyLC04NTAyMzY4NTUsLTEzNzY3NTY5OD
-EsMTA3MDM1MzM1MSwxNjI2MTAzODIwLDUzODAwNTI4LC05MTMw
-Njg5NDZdfQ==
+eyJoaXN0b3J5IjpbNTQwOTcwNzY3LC02NjAyNDc4NDAsLTYxNT
+YzNjQ0Nyw4ODY2NzIzMjEsMTgwMDA4MDUyMywzMDk1MDgwMzks
+MTQ3NDExMjIwNywyNzU5MDgyMTksLTE4NjAwNjMwOTMsMTk1Nz
+A5MjY2NywtNzcyNTg4MzAzLDE5ODI1MDc0MzYsLTE1MDk3MzU4
+MjAsLTE4NjcyNzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2ODU1LC
+0xMzc2NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMCw1Mzgw
+MDUyOF19
 -->
