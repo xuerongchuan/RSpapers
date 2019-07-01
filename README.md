@@ -74,7 +74,9 @@ https://www.paperweekly.site/papers/2561
 
 数据集：movielens latest larger  - rmse ：0.43~0.44
 #### 11-ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation
-[w
+[论文导读（文文）](https://www.jianshu.com/p/1fe9c66dac4a)
+结合自注意力机制
+
 ## 实时推荐系统
 #### 1-StreamRec: a real-time recommender system ACM2011
 #### 2-Streaming recommender systems
@@ -134,11 +136,11 @@ UPD-CTF - 2016
  融合 MF 和 RNN 的电影推荐系统，多模型融合
  >本文提出了一种新颖的基于生成对抗网络的推荐系统，采用强化学习动态调整历史长期偏好和短期会话的模型，此外，还加入了封面图片特征进一步提升系统性能，最后在两个数据集上做到state-of-art的性能。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwOTcwNzY3LC02NjAyNDc4NDAsLTYxNT
-YzNjQ0Nyw4ODY2NzIzMjEsMTgwMDA4MDUyMywzMDk1MDgwMzks
-MTQ3NDExMjIwNywyNzU5MDgyMTksLTE4NjAwNjMwOTMsMTk1Nz
-A5MjY2NywtNzcyNTg4MzAzLDE5ODI1MDc0MzYsLTE1MDk3MzU4
-MjAsLTE4NjcyNzUwOTUsMjAyNDMxMjM2MiwtODUwMjM2ODU1LC
-0xMzc2NzU2OTgxLDEwNzAzNTMzNTEsMTYyNjEwMzgyMCw1Mzgw
-MDUyOF19
+eyJoaXN0b3J5IjpbLTExOTY5ODQ2MTIsLTY2MDI0Nzg0MCwtNj
+E1NjM2NDQ3LDg4NjY3MjMyMSwxODAwMDgwNTIzLDMwOTUwODAz
+OSwxNDc0MTEyMjA3LDI3NTkwODIxOSwtMTg2MDA2MzA5MywxOT
+U3MDkyNjY3LC03NzI1ODgzMDMsMTk4MjUwNzQzNiwtMTUwOTcz
+NTgyMCwtMTg2NzI3NTA5NSwyMDI0MzEyMzYyLC04NTAyMzY4NT
+UsLTEzNzY3NTY5ODEsMTA3MDM1MzM1MSwxNjI2MTAzODIwLDUz
+ODAwNTI4XX0=
 -->
